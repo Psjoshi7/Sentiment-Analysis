@@ -6,10 +6,10 @@
 ---
 
 ## Team Members:  
-- **Name 1**, **UB Email Address 1** - This is the person who will submit the proposal
-- **Name 2**, **UB Email Address 2**
-- **Name 3**, **UB Email Address 3**
-- **Name 4**, **UB Email Address 4**
+- **Prajakta Joshi**, **pjoshi7@buffalo.edu** - This is the person who will submit the proposal
+- **Yateen Natekar**, **yateensa@buffalo.edu**
+- **Amey Ekkaldevi**, **ameybalr@buffalo.edu**
+- **Dhiraj Bhandari**, **dhirajpa@buffalo.edu**
 
 *No more than 4 team members are allowed.  No exceptions.*
 
