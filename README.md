@@ -34,21 +34,19 @@ This analysis will help in identifying the most and least selling products, the 
 
 - *_To conduct this analysis, we can use Python's Pandas library to extract the required data from the inventory management database. We can then calculate the sales revenue and profit margins for each product and rank them based on their performance. This analysis can help in identifying the products that are driving the company's revenue and those that are not performing well. The analysis can also help in making informed decisions about pricing, promotions, and product development._*
 
-*_Supplier performance analysis:_*
-This analysis will help in identifying the most and least reliable suppliers based on their delivery times, product quality, and cost-effectiveness. The following data fields will be required for this analysis:_*
+- *_Supplier performance analysis:_*
+*_This analysis will help in identifying the most and least reliable suppliers based on their delivery times, product quality, and cost-effectiveness. The following data fields will be required for this analysis:_*
 
     Supplier names, Contact details, Delivery times, Product quality, Cost-effectivenes, Order quantities, Lead time
 
-*_To conduct this analysis, we can use Python's Pandas library to extract the required data from the inventory management database. We can then calculate the delivery times, product quality, and cost-effectiveness for each supplier and rank them based on their performance. This analysis can help in identifying the suppliers that are meeting the company's expectations and those that are not. The analysis can also help in negotiating better deals and building stronger relationships with the most reliable suppliers._*
+- *_To conduct this analysis, we can use Python's Pandas library to extract the required data from the inventory management database. We can then calculate the delivery times, product quality, and cost-effectiveness for each supplier and rank them based on their performance. This analysis can help in identifying the suppliers that are meeting the company's expectations and those that are not. The analysis can also help in negotiating better deals and building stronger relationships with the most reliable suppliers._*
 
-*_
-Sales analysis:
+- *_Sales analysis:
 This analysis will help in understanding the sales patterns, identifying the most and least profitable sales channels, and identifying the regions with the highest and lowest sales. The following data fields will be required for this analysis:_*
 
     Sales dates, Channels, RegionsQuantities sold, Revenue generated, Product names, SKUs
 
 - *_To conduct this analysis, we can use Python's Pandas library to extract the required data from the inventory management database. We can then calculate the sales revenue and profit margins for each sales channel and region and rank them based on their performance. This analysis can help in identifying the most profitable sales channels and regions and focusing the company's marketing and sales efforts on them. The analysis can also help in identifying the least profitable sales channels and regions and taking corrective actions to improve their performance._*
-- 
 
 #### Motivation
 - *_Inventory management is a vital aspect of any supply chain, especially for ecommerce retail who deal with a vast catalog of products and a diverse customer base. Developing a Python-based inventory management analysis system can help such distributors optimize their inventory levels, improve order fulfillment, and enhance customer satisfaction. Our project aims to leverage the power of data analysis to uncover hidden patterns and insights in inventory data. By analyzing customer buying behavior and predicting future demand, we can help the distributor make informed decisions about inventory levels, ordering processes, and customer engagement.
