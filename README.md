@@ -13,7 +13,7 @@
 
 ## Proposed Project Title
 
-- **Write a brief, but descriptive, title here**
+- **Inventory management System Analysis**
 
 --- 
  
