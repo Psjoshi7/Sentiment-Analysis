@@ -47,7 +47,7 @@ This analysis will help in understanding the sales patterns, identifying the mos
 
     Sales dates, Channels, RegionsQuantities sold, Revenue generated, Product names, SKUs
 
-_To conduct this analysis, we can use Python's Pandas library to extract the required data from the inventory management database. We can then calculate the sales revenue and profit margins for each sales channel and region and rank them based on their performance. This analysis can help in identifying the most profitable sales channels and regions and focusing the company's marketing and sales efforts on them. The analysis can also help in identifying the least profitable sales channels and regions and taking corrective actions to improve their performance._*
+*_To conduct this analysis, we can use Python's Pandas library to extract the required data from the inventory management database. We can then calculate the sales revenue and profit margins for each sales channel and region and rank them based on their performance. This analysis can help in identifying the most profitable sales channels and regions and focusing the company's marketing and sales efforts on them. The analysis can also help in identifying the least profitable sales channels and regions and taking corrective actions to improve their performance._*
 - 
 
 #### Motivation
