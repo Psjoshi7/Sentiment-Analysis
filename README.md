@@ -27,8 +27,8 @@
 - *_Analysis:
     The inventory management analysis system will involve the following analyses with the data:_*
 
-Product performance analysis:
-This analysis will help in identifying the most and least selling products, the products with high and low profit margins, and their impact on the overall revenue of the company. The following data fields will be required for this analysis:
+- *_Product performance analysis:
+This analysis will help in identifying the most and least selling products, the products with high and low profit margins, and their impact on the overall revenue of the company. The following data fields will be required for this analysis:_*
 
     Product names
     SKUs (Stock Keeping Units)
