@@ -4,7 +4,7 @@
 ---
 
 ## Team Members:  
-- **Prajakta Joshi**, **pjoshi7@buffalo.edu** - This is the person who will submit the proposal
+- **Prajakta Joshi**, **pjoshi7@buffalo.edu** 
 - **Yateen Natekar**, **yateensa@buffalo.edu**
 - **Amey Ekkaldevi**, **ameybalr@buffalo.edu**
 - **Dhiraj Bhandari**, **dhirajpa@buffalo.edu**
