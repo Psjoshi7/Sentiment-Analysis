@@ -32,34 +32,19 @@ This analysis will help in identifying the most and least selling products, the 
 
     Product names, SKUs (Stock Keeping Units, Categories, Descriptions, Cost price, Selling price, Quantity, Sales revenue
 
-To conduct this analysis, we can use Python's Pandas library to extract the required data from the inventory management database. We can then calculate the sales revenue and profit margins for each product and rank them based on their performance. This analysis can help in identifying the products that are driving the company's revenue and those that are not performing well. The analysis can also help in making informed decisions about pricing, promotions, and product development.
+- *_To conduct this analysis, we can use Python's Pandas library to extract the required data from the inventory management database. We can then calculate the sales revenue and profit margins for each product and rank them based on their performance. This analysis can help in identifying the products that are driving the company's revenue and those that are not performing well. The analysis can also help in making informed decisions about pricing, promotions, and product development._*
 
-Stock level analysis:
-This analysis will help in understanding the stock levels of the products and identifying the overstocked and understocked products. This analysis can further help in identifying the reorder point, safety stock level, and lead time for the products. The following data fields will be required for this analysis:
+- *_Stock level analysis:
+This analysis will help in understanding the stock levels of the products and identifying the overstocked and understocked products. This analysis can further help in identifying the reorder point, safety stock level, and lead time for the products. The following data fields will be required for this analysis:_*
 
-    Product names
-    SKUs
-    Categories
-    Descriptions
-    Cost price
-    Selling price
-    Quantity
-    Reorder point
-    Safety stock level
-    Lead time
+    Product names, SKUs (Stock Keeping Units, Categories, Descriptions, Cost price, Selling price, Quantity, Sales revenue
 
-To conduct this analysis, we can use Python's Pandas library to extract the required data from the inventory management database. We can then calculate the stock levels for each product and compare them against the reorder point and safety stock level. This analysis can help in optimizing the inventory levels, reducing stockouts and overstocking, and improving the overall inventory management performance.
+*_To conduct this analysis, we can use Python's Pandas library to extract the required data from the inventory management database. We can then calculate the stock levels for each product and compare them against the reorder point and safety stock level. This analysis can help in optimizing the inventory levels, reducing stockouts and overstocking, and improving the overall inventory management performance._*
 
-Supplier performance analysis:
-This analysis will help in identifying the most and least reliable suppliers based on their delivery times, product quality, and cost-effectiveness. The following data fields will be required for this analysis:
+*_Supplier performance analysis:
+This analysis will help in identifying the most and least reliable suppliers based on their delivery times, product quality, and cost-effectiveness. The following data fields will be required for this analysis:_*
 
-    Supplier names
-    Contact details
-    Delivery times
-    Product quality
-    Cost-effectiveness
-    Order quantities
-    Lead time
+    Supplier names, Contact details, Delivery times, Product quality, Cost-effectivenes, Order quantities, Lead time
 
 To conduct this analysis, we can use Python's Pandas library to extract the required data from the inventory management database. We can then calculate the delivery times, product quality, and cost-effectiveness for each supplier and rank them based on their performance. This analysis can help in identifying the suppliers that are meeting the company's expectations and those that are not. The analysis can also help in negotiating better deals and building stronger relationships with the most reliable suppliers.
 
