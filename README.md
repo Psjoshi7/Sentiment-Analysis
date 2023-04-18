@@ -18,8 +18,6 @@
 --- 
  
 ### Option 2 - Online Data Analysis
-*[Remove this section if you are **NOT** choosing Option 2.]*
-> Students may develop their own programming project. In this option, students must identify a source of online data, which will be dynamically imported via Python. The Python code must utilize these data to either make decision support recommendations or provide a detailed analysis of the data. A YouTube video describing the mechanics of the Python code will be required, in addition to a “how-to” guide for running the code. All source code must be submitted, and the course instructor must be able to execute the code without errors.
 
 #### Data Sources
 - *[Provide a description of each data source you plan to use.]*
@@ -30,7 +28,7 @@
 - *[Clearly justify how the chosen source data will enable your team to conduct this analysis.]*
 
 #### Motivation
-- *_Inventory management is a vital aspect of any supply chain, especially for **electronics distributors** who deal with a vast catalog of products and a diverse customer base. Developing a Python-based inventory management analysis system can help such distributors optimize their inventory levels, improve order fulfillment, and enhance customer satisfaction.
+- *Inventory management is a vital aspect of any supply chain, especially for **electronics distributors** who deal with a vast catalog of products and a diverse customer base. Developing a Python-based inventory management analysis system can help such distributors optimize their inventory levels, improve order fulfillment, and enhance customer satisfaction.
 
 Our project aims to leverage the power of data analysis to uncover hidden patterns and insights in inventory data. By analyzing customer buying behavior and predicting future demand, we can help the distributor make informed decisions about inventory levels, ordering processes, and customer engagement.
 
