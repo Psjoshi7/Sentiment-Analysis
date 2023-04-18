@@ -13,7 +13,7 @@
 
 ## Proposed Project Title
 
-- **Inventory management System Analysis**
+- **Inventory Management System Analysis**
 
 --- 
  
