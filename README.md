@@ -1,8 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6ebMFVGY)
 # IE 555 Project Proposal Template
 
---- 
-**Note**:  The *[italicized]* content below is for your reference only.  Please remove these comments before submitting.
 ---
 
 ## Team Members:  
@@ -11,8 +9,6 @@
 - **Amey Ekkaldevi**, **ameybalr@buffalo.edu**
 - **Dhiraj Bhandari**, **dhirajpa@buffalo.edu**
 
-*No more than 4 team members are allowed.  No exceptions.*
-
 ---
 
 ## Proposed Project Title
@@ -20,28 +16,6 @@
 - **Write a brief, but descriptive, title here**
 
 --- 
-
-## Project Type
-*[Your group has two options for the course project.  Please select **one** option and provide the corresponding relevant information.]*
-
-### Option 1 - Research Paper
-*[Remove this section if you are **NOT** choosing Option 1.]*
-> Students may identify a relevant paper from an archived journal which features an algorithm/heuristic designed to solve a particular problem. This algorithm should be coded in Python and validated against the results published in the paper. A final report describing (a) the problem itself, (b) an overview of the solution procedure, (c) a description of how the test data were generating, (d) a summary of the various functions employed to execute the code, and (e) a “how-to” guide for running the Python code is expected.
-
-#### Reference
-- *[Provide a citation to the journal article, including title, authors, journal name, year.]*
-
-#### Problem Description
-- *[Provide a description of the problem defined in the reference article.]*
-
-#### Algorithm Description
-- *[Provide a description of the algorithm defined in the reference article.]*
-
-#### Source Data
-- *[Concisely explain where you plan to obtain source data on which to test the algorithm.]*
-
-#### Motivation
-- *[Explain why you chose this paper.]*
  
 ### Option 2 - Online Data Analysis
 *[Remove this section if you are **NOT** choosing Option 2.]*
