@@ -20,9 +20,9 @@
 ### Option 2 - Online Data Analysis
 
 #### Data Sources
-- *We will be utilizing the Rapid API data source to fetch Amazon product information. This data set includes the following information
+- We will be utilizing the Rapid API data source to fetch Amazon product information. This data set includes the following information
 - Product availability, brand, category, manufacturer, model number, quantity per order, sold by, SKU, store ID, price, etc
-- Using these attributes we will be analysing the amazon inventory management system for different products across different categories*
+- Using these attributes we will be analysing the amazon inventory management system for different products across different categories
     - https://rapidapi.com/logicbuilder/api/amazon-product-reviews-keywords/
 
 #### Analysis Plan
