@@ -30,14 +30,7 @@
 - *_Product performance analysis:
 This analysis will help in identifying the most and least selling products, the products with high and low profit margins, and their impact on the overall revenue of the company. The following data fields will be required for this analysis:_*
 
-    Product names
-    SKUs (Stock Keeping Units)
-    Categories
-    Descriptions
-    Cost price
-    Selling price
-    Quantity
-    Sales revenue
+    Product names, SKUs (Stock Keeping Units, Categories, Descriptions, Cost price, Selling price, Quantity, Sales revenue
 
 To conduct this analysis, we can use Python's Pandas library to extract the required data from the inventory management database. We can then calculate the sales revenue and profit margins for each product and rank them based on their performance. This analysis can help in identifying the products that are driving the company's revenue and those that are not performing well. The analysis can also help in making informed decisions about pricing, promotions, and product development.
 
