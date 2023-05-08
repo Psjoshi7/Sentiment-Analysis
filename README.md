@@ -53,3 +53,16 @@ This analysis will help in understanding the sales patterns, identifying the mos
 #### Motivation
 - *_Inventory management is a vital aspect of any supply chain, especially for ecommerce retail who deal with a vast catalog of products and a diverse customer base. Developing a Python-based inventory management analysis system can help such distributors optimize their inventory levels, improve order fulfillment, and enhance customer satisfaction. Our project aims to leverage the power of data analysis to uncover hidden patterns and insights in inventory data. By analyzing customer buying behavior and predicting future demand, we can help the distributor make informed decisions about inventory levels, ordering processes, and customer engagement.
 Our team of Python programmers and data analysts is excited to take on this challenge and develop an inventory management system that will set the distributor apart from its competitors. This project offers an opportunity to showcase our skills and creativity while contributing to the success of an industry that plays a vital role in modern society. We believe that this project will provide valuable insights into supply chain management, enabling the distributor to optimize its operations and stay ahead of the curve in a rapidly evolving industry. By applying our technical expertise to this real-world business problem, we can make a meaningful contribution to the world of inventory management and enhance our skills and knowledge as data analysts and programmers._*
+
+---
+## Task List
+*The table below will serve as your Progress Report (due by end of day on Monday, May 8).  Be sure to list all tasks that you need to complete to finish your analysis and to successfully complete the requirements of this project.*
+
+| ID | Task Description | Due Date | Status |
+| --- | --- | --- | --- |
+| 1 | Update this table with detailed list of tasks | 2023-05-08 | DONE |
+| ... |  | | 
+| n-1 | Complete YouTube video and upload to YouTube | 2023-05-16 | |
+| n | Upload README.md document to Github | 2023-05-17 |
+
+--- 
