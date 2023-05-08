@@ -60,7 +60,7 @@ Our team of Python programmers and data analysts is excited to take on this chal
 
 | ID | Task Description | Due Date | Status |
 | --- | --- | --- | --- |
-| 1 | Update this table with detailed list of tasks | 2023-05-08 | DONE |
+| 1 | Project Proposal | 2023-04-18 | DONE |
 | ... |  | | 
 | n-1 | Complete YouTube video and upload to YouTube | 2023-05-16 | |
 | n | Upload README.md document to Github | 2023-05-17 |
