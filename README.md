@@ -61,7 +61,10 @@ Our team of Python programmers and data analysts is excited to take on this chal
 | ID | Task Description | Due Date | Status |
 | --- | --- | --- | --- |
 | 1 | Project Proposal | 2023-04-18 | DONE |
-| ... |  | | 
+| 2 | Project planning and preparation | | DONE |
+| 3 | Set up API Integration and Data Collection| | DONE |
+| 4 | Data preprocessing and cleaning | | 
+| 5 | Exploratory data analysis and visualization | | |
 | n-1 | Complete YouTube video and upload to YouTube | 2023-05-16 | |
 | n | Upload README.md document to Github | 2023-05-17 |
 
