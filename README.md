@@ -60,12 +60,17 @@ Our team of Python programmers and data analysts is excited to take on this chal
 
 | ID | Task Description | Due Date | Status |
 | --- | --- | --- | --- |
-| 1 | Project Proposal | 2023-04-18 | DONE |
-| 2 | Project planning and preparation | | DONE |
-| 3 | Set up API Integration and Data Collection| | DONE |
-| 4 | Data preprocessing and cleaning | | 
-| 5 | Exploratory data analysis and visualization | | |
-| n-1 | Complete YouTube video and upload to YouTube | 2023-05-16 | |
-| n | Upload README.md document to Github | 2023-05-17 |
+| 1 | Project Proposal | 2023-04-18 | Done |
+| 2 | Project planning and preparation | 2023-04-20 | DONE |
+| 3 | Research and selection of appropriate API data sources (Inventory review data using Rapid API) | 2023-04-25 | DONE |
+| 4 | Setting up API authentication and gathering product review data from different API/platforms| 2023-04-28 | DONE |
+| 5a | Data Preprocessing and combining data from different API/platform | 2023-05-01 | Done |
+| 5b | Data Cleaning and Selection of defined product attributes | 2023-05-03 | Done |
+| 6a | Exploratory sentiment data analysis and visualization | 2023-05-09 | In Progress |
+| 6b | Comparitive analysis between different product categories and platforms | 2023-05-12 | In Progress |
+| 7 | Sentiment Analysis Interpretation | 2023-05-14 | Yet to Start |
+| 8 | Concluding the Analysis and creating Final Report | 2023-05-15 | Yet to Start |
+| 9 | Complete YouTube video and upload to YouTube | 2023-05-16 | Yet to Start |
+| 10 | Upload README.md document to Github | 2023-05-17 | Yet to Start |
 
 --- 
