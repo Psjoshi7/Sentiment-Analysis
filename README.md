@@ -56,7 +56,6 @@ Our team of Python programmers and data analysts is excited to take on this chal
 
 ---
 ## Task List
-*The table below will serve as your Progress Report (due by end of day on Monday, May 8).  Be sure to list all tasks that you need to complete to finish your analysis and to successfully complete the requirements of this project.*
 
 | ID | Task Description | Due Date | Status |
 | --- | --- | --- | --- |
