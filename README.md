@@ -78,6 +78,23 @@ This analysis will help in understanding customer sentiments can give businesses
 
 --- 
 
+## Introduction
+The purpose of this section is to provide some background about your project.  For example, your introduction should discuss
+- The purpose of your project;
+- The type of data you're using;
+- What you're doing with this data;
+- What types of analysis you're conducting;
 
+Your introduction should make the reader excited to read the rest of this document.
+
+---
+
+## References
+In this section, provide links to your references and data sources.  For example:
+- Source code was adapted from [the magic source code farm](http://www.amagicalnonexistentplace.com)
+- The code retrieves data from [the organization for hosting cool data](http://www.anothermagicalnonexistentplace.com)
+- The forecasting models were modified from [some academic research paper](http://www.linktotheacademicpaperyouused.com)
+
+---
 
 
