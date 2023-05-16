@@ -79,15 +79,6 @@ This analysis will help in understanding customer sentiments can give businesses
 --- 
 
 ## Introduction
-The purpose of this section is to provide some background about your project.  For example, your introduction should discuss
-- The purpose of your project;
-- The type of data you're using;
-- What you're doing with this data;
-- What types of analysis you're conducting;
-
-Your introduction should make the reader excited to read the rest of this document.
-
-- Introduction:
 
 In today's digital age, electronic products have become an integral part of our lives. Whether it's smartphones, laptops, or home appliances, consumers rely heavily on online platforms to make informed purchasing decisions. With the abundance of choices available, customers often turn to customer reviews, star ratings, and prices to gauge the quality and suitability of electronics products.
 
