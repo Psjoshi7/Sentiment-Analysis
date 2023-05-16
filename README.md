@@ -80,19 +80,19 @@ This analysis will help in understanding customer sentiments can give businesses
 
 ## Introduction
 
-In today's digital age, electronic products have become an integral part of our lives. Whether it's smartphones, laptops, or home appliances, consumers rely heavily on online platforms to make informed purchasing decisions. With the abundance of choices available, customers often turn to customer reviews, star ratings, and prices to gauge the quality and suitability of electronics products.
+- In today's digital age, electronic products have become an integral part of our lives. Whether it's smartphones, laptops, or home appliances, consumers rely heavily on online platforms to make informed purchasing decisions. With the abundance of choices available, customers often turn to customer reviews, star ratings, and prices to gauge the quality and suitability of electronics products.
 
-The purpose of this project is to delve into the world of sentiment analysis and leverage the power of data to gain valuable insights into customer sentiments towards electronics products. By analyzing customer reviews, star ratings, and prices, we aim to extract meaningful information that can aid both consumers and manufacturers in making informed decisions.
+- The purpose of this project is to delve into the world of sentiment analysis and leverage the power of data to gain valuable insights into customer sentiments towards electronics products. By analyzing customer reviews, star ratings, and prices, we aim to extract meaningful information that can aid both consumers and manufacturers in making informed decisions.
 
-The data used for this project consists of a vast collection of customer reviews, star ratings, and corresponding prices of various electronics products from popular online platforms. Each review provides a unique perspective on the strengths, weaknesses, and overall satisfaction of customers with a particular product.
+- The data used for this project consists of a vast collection of customer reviews, star ratings, and corresponding prices of various electronics products from popular online platforms. Each review provides a unique perspective on the strengths, weaknesses, and overall satisfaction of customers with a particular product.
 
-With this data, we are embarking on a comprehensive analysis to understand the sentiment behind these customer reviews. Our goal is to develop a sentiment analysis model that can automatically classify reviews as positive, negative, or neutral based on the expressed opinions. By employing natural language processing techniques, we will extract important features and sentiments from textual data, and combine them with star ratings and prices to gain deeper insights into the customer's overall experience.
+- With this data, we are embarking on a comprehensive analysis to understand the sentiment behind these customer reviews. Our goal is to develop a sentiment analysis model that can automatically classify reviews as positive, negative, or neutral based on the expressed opinions. By employing natural language processing techniques, we will extract important features and sentiments from textual data, and combine them with star ratings and prices to gain deeper insights into the customer's overall experience.
 
-Throughout this project, we will conduct various analyses to uncover patterns, trends, and correlations within the dataset. We will explore the relationship between customer sentiments, star ratings, and prices to identify factors that contribute to positive or negative feedback. Additionally, we will investigate the impact of different product categories, brands, and price ranges on customer satisfaction.
+- Throughout this project, we will conduct various analyses to uncover patterns, trends, and correlations within the dataset. We will explore the relationship between customer sentiments, star ratings, and prices to identify factors that contribute to positive or negative feedback. Additionally, we will investigate the impact of different product categories, brands, and price ranges on customer satisfaction.
 
-By the end of this project, we aim to present a comprehensive analysis report that not only reveals the sentiment trends in electronics products but also provides actionable insights for manufacturers to improve their products and for consumers to make more informed decisions.
+- By the end of this project, we aim to present a comprehensive analysis report that not only reveals the sentiment trends in electronics products but also provides actionable insights for manufacturers to improve their products and for consumers to make more informed decisions.
 
-Join us on this exciting journey as we dive into the realm of sentiment analysis, uncovering the hidden stories within customer reviews, star ratings, and prices of electronics products. Get ready to explore the world of data-driven decision-making, where sentiments meet technology, and where knowledge transforms into power.
+- Join us on this exciting journey as we dive into the realm of sentiment analysis, uncovering the hidden stories within customer reviews, star ratings, and prices of electronics products. Get ready to explore the world of data-driven decision-making, where sentiments meet technology, and where knowledge transforms into power.
 
 ---
 
