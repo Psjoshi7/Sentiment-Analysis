@@ -32,7 +32,7 @@
 - *_Product performance analysis:
 This analysis will help in identifying the most and least selling products, the products with popularity status, and their impact on the overall rating performance of the company. The following data fields will be required for this analysis:_*
 
-    Product names, Categories, Descriptions, Cost price, ratings, reviews
+     Product names, Categories, Descriptions, Cost price, ratings, reviews
 
 - *_To conduct this analysis, we can use Python's Pandas library to extract the required data from the ecommerce platform database. We can then calculate the criteria weightage and rank them based on their performance. This analysis can help in identifying the products that are driving the company's popularity and those that are not performing well. The analysis can also help in making informed decisions about pricing, promotions, and product development._*
 
@@ -47,7 +47,7 @@ This analysis will help in identifying the most and least selling products, the 
 - *_colleration analysis:
 This analysis will help in understanding customer sentiments can give businesses a strategic advantage and the relationship between ratings, reviews, and prices to uncover patterns or associations. The following data fields will be required for this analysis:_*
 
-    Best seller factor, price, rating
+     Best seller factor, price, rating
 
 - *_To conduct this analysis, we can use python's pandas library to generate regression analysis. We can determine if there is a correlation between price and customer satisfaction, or if high ratings are associated with higher prices. Correlation analysis can provide insights into the factors that influence customer perceptions and purchasing decisions.This analysis can analyze the correlation coefficients and their statistical significance to draw conclusions._*
 
@@ -77,3 +77,7 @@ This analysis will help in understanding customer sentiments can give businesses
 | 10 | Upload README.md document to Github | 2023-05-17 | Yet to Start |
 
 --- 
+
+
+
+
