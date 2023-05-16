@@ -36,8 +36,8 @@ This analysis will help in identifying the most and least selling products, the 
 
 - *_To conduct this analysis, we can use Python's Pandas library to extract the required data from the ecommerce platform database. We can then calculate the criteria weightage and rank them based on their performance. This analysis can help in identifying the products that are driving the company's popularity and those that are not performing well. The analysis can also help in making informed decisions about pricing, promotions, and product development._*
 
-- *_ Sentiment Analysis:
-- This analysis will help in interpreting the product sentiments, product perfomrance referring reviews and indentifying the best selling products. The following data fields will be required for this analysis:_*
+- *_ Sentiment Analysis:_*
+- *_This analysis will help in interpreting the product sentiments, product perfomrance referring reviews and indentifying the best selling products. The following data fields will be required for this analysis:_*
 
       Product names, Descriptions, Ratings, reviews, Cost, Best selling 
  
