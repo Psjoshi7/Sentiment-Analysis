@@ -87,7 +87,8 @@ The purpose of this section is to provide some background about your project.  F
 
 Your introduction should make the reader excited to read the rest of this document.
 
-Introduction:
+- Introduction:
+
 In today's digital age, electronic products have become an integral part of our lives. Whether it's smartphones, laptops, or home appliances, consumers rely heavily on online platforms to make informed purchasing decisions. With the abundance of choices available, customers often turn to customer reviews, star ratings, and prices to gauge the quality and suitability of electronics products.
 
 The purpose of this project is to delve into the world of sentiment analysis and leverage the power of data to gain valuable insights into customer sentiments towards electronics products. By analyzing customer reviews, star ratings, and prices, we aim to extract meaningful information that can aid both consumers and manufacturers in making informed decisions.
