@@ -32,7 +32,7 @@
 - *_Product performance analysis:
 This analysis will help in identifying the most and least selling products, the products with popularity status, and their impact on the overall rating performance of the company. The following data fields will be required for this analysis:_*
 
-     Product names, Categories, Descriptions, Cost price, ratings, reviews
+    Product names, Categories, Descriptions, Cost price, ratings, reviews
 
 - *_To conduct this analysis, we can use Python's Pandas library to extract the required data from the ecommerce platform database. We can then calculate the criteria weightage and rank them based on their performance. This analysis can help in identifying the products that are driving the company's popularity and those that are not performing well. The analysis can also help in making informed decisions about pricing, promotions, and product development._*
 
