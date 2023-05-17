@@ -14,6 +14,7 @@
 ## Project Title
 
 - **Sentiment Analysis of Consumer Based Electronic Product Reviews**
+- YouTube Video Link: [Sentiment Analysis](https://www.youtube.com/watch?v=rq924lNlHwg&t=340s)
 --- 
  
 ### Option 2 - Online Data Analysis
