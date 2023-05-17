@@ -495,55 +495,55 @@ In summary, the mostImportantFactor function performs logistic regression to ana
 ---
 ## Results from your Analysis
 
-![Iphone Distribution of Ratings]([images/Iphone Distribution of Ratings.png](https://github.com/IE-555/final-project-Psjoshi7/blob/main/images/Iphone%20Distribution%20of%20Ratings.png))
+![Iphone Distribution of Ratings](https://github.com/IE-555/final-project-Psjoshi7/blob/main/images/Iphone%20Distribution%20of%20Ratings.png)
 - Iphone distribution of ratings
 
 
 This bar chart represents the distribution of ratings over total no. of registered Iphone products in the dataset. Around 2.7-star rating is the starting ratings and 4.8 is the end rating of Iphone. Basically, it is gradually increasing distribution of ratings. There are 80% ratings lies in between 4.3 to 4.8. There is no rating below 2.7 for all products.
 
 
-![Image of Plot](images/Iphone Distribution of sentiment.png)
+![Iphone Distribution of sentiment](https://github.com/IE-555/final-project-Psjoshi7/blob/main/images/Iphone%20Distribution%20of%20sentiment.png)
 - Iphone distribution of sentiment
 
 
 This graph shows the sentiment distribution for all products which are derived from datasets. There are 3 types of sentiments called as Neutral, positive and negative. Fortunately, no negative sentiment is present in graph. Majorly around 90% products have neutral sentiment and remaining are in positive sentiment.
 
 
-![Image of Plot](images/Iphone Price vs Ratings.png)
+![Iphone Price vs Ratings](https://github.com/IE-555/final-project-Psjoshi7/blob/main/images/Iphone%20Price%20vs%20Ratings.png)
 - Iphone Price vs ratings
 
 
 Scatter plot has ratings and prices for all Iphone and average line is 4.19 of rating. Eight products are below $400 in term of price whereas only 2 products are above $800. The remaining 6 products are in between $410 and $800. There is no trend line for price against ratings.
 
-![Image of Plot](images/Iphone sentiment score for each product.png)
+![Iphone Sentiment score for each product](https://github.com/IE-555/final-project-Psjoshi7/blob/main/images/Iphone%20sentiment%20score%20for%20each%20product.png)
 - Iphone sentiment score for each product
 
 
 All product has sentiment score in the scale of 10 from 0. There is 3 categories for sentiment score named as negative, neutral and positive. 0 to 3 is negative sentiment which has no product in that range. Product 1 and 5 have positive sentiment which is more than 6 and remaining products are in neutral sentiment.
 
 
-![Image of Plot](images/Iphone Sentiment score vs Stars.png)
+![Iphone Sentiment score vs Stars](https://github.com/IE-555/final-project-Psjoshi7/blob/main/images/Iphone%20Sentiment%20score%20vs%20Stars.png)
 - Sentiment score vs stars
 
 
 From scatter plot, average sentiment line is 4.6 and it has not any specific pattern for stars distribution. Approximately 60% stars have sentiment score which is less 5.5 sentiment score and only 3.2star product has 3.8 sentiment score and 4.3star product has sentiment score more than 7.
 
 
-![Image of Plot](images/Iphone sentiment score vs total reviews.png)
+![Iphone Sentiment score vs total reviews](https://github.com/IE-555/final-project-Psjoshi7/blob/main/images/Iphone%20sentiment%20score%20vs%20total%20reviews.png)
 - Sentiment score vs total reviews
 
 
 This scatter plot has 4.7 average sentiment score for total reviews. Around 80% total reviews are below 5 sentiment score and are less than 30000. All products have more or less sentiment score from 4 to 4.7 which is average line. Sentiment score is increasing with respective total reviews.
 
 
-![Image of Plot](images/Iphone sentiment vs prices.png)
+![Iphone Sentiment vs Price](https://github.com/IE-555/final-project-Psjoshi7/blob/main/images/Iphone%20sentiment%20vs%20price.png)
 - Sentiment score vs price
 
 
 Most of the products are falling in between price of $200 to $800 and there is no change in average sentiment score comparing with sentiment score vs total reviews. There is no trending line exist for sentiment score with respective price range which means it shows horizontal movement of sentiment score.
 
 
-![Image of Plot](images/Iphone Total reviews by ratings.png)
+![Iphone Total Reviews by Ratings](https://github.com/IE-555/final-project-Psjoshi7/blob/main/images/Iphone%20Total%20reviews%20by%20ratings.png)
 - Total reviews by ratings
 
 
@@ -552,7 +552,7 @@ This bar graph represents rating outliers with total reviews on the scale of 4.5
 
 ![Initial Data Analysis](https://github.com/IE-555/final-project-Psjoshi7/blob/main/images/Initial%20Data%20Analysis.jpg)
 
-![Image of Plot](images/Logistics Regression Summary.png)
+![Regression summary](https://github.com/IE-555/final-project-Psjoshi7/blob/main/images/Logistics%20Regression%20Summary.jpg)
 
 
 - Coefficients: The coefficients represent the estimated effect of each variable on the log-odds of the dependent variable, which in this case is the likelihood of being a best seller (is_best_seller). The coefficients are as follows:
