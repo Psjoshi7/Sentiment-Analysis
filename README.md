@@ -551,6 +551,9 @@ This bar graph represents rating outliers with total reviews on the scale of 4.5
 
 
 ![Initial Data Analysis](https://github.com/IE-555/final-project-Psjoshi7/blob/main/images/Initial%20Data%20Analysis.jpg)
+- Initial Data Analysis
+
+--
 
 ![Regression summary](https://github.com/IE-555/final-project-Psjoshi7/blob/main/images/Logistics%20Regression%20Summary.jpg)
 
