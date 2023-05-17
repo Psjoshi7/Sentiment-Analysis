@@ -495,7 +495,7 @@ In summary, the mostImportantFactor function performs logistic regression to ana
 ---
 ## Results from your Analysis
 
-![Image of Plot](images/Iphone Distribution of Ratings.png)
+![Iphone Distribution of Ratings]([images/Iphone Distribution of Ratings.png](https://github.com/IE-555/final-project-Psjoshi7/blob/main/images/Iphone%20Distribution%20of%20Ratings.png))
 - Iphone distribution of ratings
 
 
