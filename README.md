@@ -42,7 +42,7 @@ This analysis will help in identifying the most and least selling products, the 
  - *_To conduct analysis, we can use Python's pandas library to extract the data various API keys. We can then calculate the weightage for 4 parameters of various products. This analysis can apply a sentiment analysis model to determine the sentiment polarity (positive, negative, or neutral) of each customer review and associate the sentiment with the corresponding rating and price of each product. The analysis can also help in exploring the distribution of sentiment scores across the dataset and in Calculating individual sentiment scores for different rating levels (e.g., 1-2 stars, 3-4 stars, 5 stars) to identify any patterns or trends._*
 
 
-**_colleration analysis:_**
+**_Correlation analysis:_**
 This analysis will help in understanding customer sentiments can give businesses a strategic advantage and the relationship between ratings, reviews, and prices to uncover patterns or associations. The following data fields will be required for this analysis:
   
     Best seller factor, price, ratings
