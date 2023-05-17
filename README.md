@@ -550,7 +550,7 @@ Most of the products are falling in between price of $200 to $800 and there is n
 This bar graph represents rating outliers with total reviews on the scale of 4.5. 4.2 rating has 50% products which has more than 10000 reviews. Similarly, 4.3 rating has outliers which has more than 35000 reviews. There is increasing trending line for total reviews with respective the prices. The 4.5 rating has the most total reviews, 58000. There are very fewer total reviews for 4 and 4.1 ratings.
 
 
-![Image of Plot](images/Initial Data Analysis.png)
+![Initial Data Analysis](https://github.com/IE-555/final-project-Psjoshi7/blob/main/images/Initial%20Data%20Analysis.jpg)
 
 ![Image of Plot](images/Logistics Regression Summary.png)
 
