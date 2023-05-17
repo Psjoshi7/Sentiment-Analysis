@@ -492,6 +492,80 @@ In summary, the mostImportantFactor function performs logistic regression to ana
 10. close the first sentiment analysis graph to see the next one. 
 11. Once all graphs are shown the terminal will show a summary of the logistic regression carried out on the response variable 'is_best_seller' and will show the most important factor for the product to be the best seller. 
 
+---
+## Results from your Analysis
+
+![Image of Plot](images/Iphone Distribution of Ratings.png)
+- Iphone distribution of ratings
+
+
+This bar chart represents the distribution of ratings over total no. of registered Iphone products in the dataset. Around 2.7-star rating is the starting ratings and 4.8 is the end rating of Iphone. Basically, it is gradually increasing distribution of ratings. There are 80% ratings lies in between 4.3 to 4.8. There is no rating below 2.7 for all products.
+
+
+![Image of Plot](images/Iphone Distribution of sentiment.png)
+- Iphone distribution of sentiment
+
+
+This graph shows the sentiment distribution for all products which are derived from datasets. There are 3 types of sentiments called as Neutral, positive and negative. Fortunately, no negative sentiment is present in graph. Majorly around 90% products have neutral sentiment and remaining are in positive sentiment.
+
+
+![Image of Plot](images/Iphone Price vs Ratings.png)
+- Iphone Price vs ratings
+
+
+Scatter plot has ratings and prices for all Iphone and average line is 4.19 of rating. Eight products are below $400 in term of price whereas only 2 products are above $800. The remaining 6 products are in between $410 and $800. There is no trend line for price against ratings.
+
+![Image of Plot](images/Iphone sentiment score for each product.png)
+- Iphone sentiment score for each product
+
+
+All product has sentiment score in the scale of 10 from 0. There is 3 categories for sentiment score named as negative, neutral and positive. 0 to 3 is negative sentiment which has no product in that range. Product 1 and 5 have positive sentiment which is more than 6 and remaining products are in neutral sentiment.
+
+
+![Image of Plot](images/Iphone Sentiment score vs Stars.png)
+- Sentiment score vs stars
+
+
+From scatter plot, average sentiment line is 4.6 and it has not any specific pattern for stars distribution. Approximately 60% stars have sentiment score which is less 5.5 sentiment score and only 3.2star product has 3.8 sentiment score and 4.3star product has sentiment score more than 7.
+
+
+![Image of Plot](images/Iphone sentiment score vs total reviews.png)
+- Sentiment score vs total reviews
+
+
+This scatter plot has 4.7 average sentiment score for total reviews. Around 80% total reviews are below 5 sentiment score and are less than 30000. All products have more or less sentiment score from 4 to 4.7 which is average line. Sentiment score is increasing with respective total reviews.
+
+
+![Image of Plot](images/Iphone sentiment vs prices.png)
+- Sentiment score vs price
+
+
+Most of the products are falling in between price of $200 to $800 and there is no change in average sentiment score comparing with sentiment score vs total reviews. There is no trending line exist for sentiment score with respective price range which means it shows horizontal movement of sentiment score.
+
+
+![Image of Plot](images/Iphone Total reviews by ratings.png)
+- Total reviews by ratings
+
+
+This bar graph represents rating outliers with total reviews on the scale of 4.5. 4.2 rating has 50% products which has more than 10000 reviews. Similarly, 4.3 rating has outliers which has more than 35000 reviews. There is increasing trending line for total reviews with respective the prices. The 4.5 rating has the most total reviews, 58000. There are very fewer total reviews for 4 and 4.1 ratings.
+
+
+![Image of Plot](images/Initial Data Analysis.png)
+
+![Image of Plot](images/Logistics Regression Summary.png)
+
+
+- Coefficients: The coefficients represent the estimated effect of each variable on the log-odds of the dependent variable, which in this case is the likelihood of being a best seller (is_best_seller). The coefficients are as follows:
+
+- const: The coefficient for the constant term is -0.2330. However, since the p-value (P>|z|) is not significant (p = 0.992), we cannot conclude that it has a meaningful impact on the dependent variable.
+
+- stars: The coefficient for the stars variable is -0.8625. Again, the p-value (P>|z|) is not significant (p = 0.877), indicating that the star ratings do not have a significant impact on the likelihood of being a best seller.
+
+- price: The coefficient for the price variable is -0.0005. Similar to the previous variables, the p-value (P>|z|) is not significant (p = 0.952), suggesting that the price does not have a significant impact on the likelihood of being a best seller.
+
+- total_reviews: The coefficient for the total_reviews variable is 5.686e-05. The p-value (P>|z|) for this variable is also not significant (p = 0.518). However, compared to the other variables, the magnitude of the coefficient suggests that the total number of reviews has a slightly more influential effect on the likelihood of being a best seller.
+
+- Based on the coefficients and their associated p-values, it seems that none of the variables (stars, price, const) have a significant impact on the likelihood of being a best seller. However, the total_reviews variable shows a slightly more influential effect. It is important to note that these conclusions are based on the current model and dataset, and further analysis or different variables may yield different results.
 
 
 
