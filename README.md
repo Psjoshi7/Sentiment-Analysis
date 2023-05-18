@@ -72,7 +72,7 @@ This analysis will help in understanding customer sentiments can give businesses
 | 7 | Sentiment Analysis Interpretation | 2023-05-14 | Done |
 | 8 | Concluding the Analysis and creating Final Report | 2023-05-15 | Done |
 | 9 | Complete YouTube video and upload to YouTube | 2023-05-16 | Done |
-| 10 | Upload README.md document to Github | 2023-05-17 | In Progress |
+| 10 | Upload README.md document to Github | 2023-05-17 | Done |
 | 11 | Comparitive analysis between different product categories and platforms | - | Future Scope |
 
 --- 
