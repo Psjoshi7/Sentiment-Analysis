@@ -4,10 +4,10 @@
 ---
 
 ## Team Members:  
-- **Prajakta Joshi**, **pjoshi7@buffalo.edu** 
-- **Yateen Natekar**, **yateensa@buffalo.edu**
-- **Amey Ekkaldevi**, **ameybalr@buffalo.edu**
-- **Dhiraj Bhandari**, **dhirajpa@buffalo.edu**
+- **Prajakta Joshi**, 
+- **Yateen Natekar**, 
+- **Amey Ekkaldevi**, 
+- **Dhiraj Bhandari** 
 
 ---
 
